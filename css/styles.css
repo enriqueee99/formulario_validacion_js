@@ -94,6 +94,7 @@ main{
 
 .formulario__mensaje-activo{
     display: block;
+    font-weight: 700;
 }
 
 .formulario__mensaje p{
@@ -152,6 +153,8 @@ main{
 .formulario__grupo-incorrecto .formulario__input{
     border: 3pz solid #bb2929;
 }
+
+
 /*responsive*/
 @media screen and (max-width: 800px) {
     .formulario{
